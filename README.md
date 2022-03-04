@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/rsemihkoca/Riza-Semih-Koca/e5c5fc6e24fc8d878a31ed3372c069f3b8771590/name.svg" alt="Rıza Semih Koca" />
+  <img src="https://raw.githubusercontent.com/rsemihkoca/rsemihkoca/7ca00af1a8ac8f303980607ccf7108f461da285c/name.svg" alt="Rıza Semih Koca" />
 </h1>
 
 ## Hey! 👋
