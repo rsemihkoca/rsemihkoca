@@ -15,6 +15,6 @@ I'm Semih, a 21 years old web developer from Hungary.
 - 📊 Excel
 
 ## Contact
-- [@martonlederer](https://twitter.com/martonlederer) on Twitter
-- [@martonlederer](https://twitter.com/instagram) on Instagram
+- [@rızasemihkoca](https://www.linkedin.com/in/r%C4%B1za-semih-koca/) on Linkedin
+- [@rsemihkoca](https://twitter.com/instagram) on Instagram
 - [Marton#6513](./) on Discord
