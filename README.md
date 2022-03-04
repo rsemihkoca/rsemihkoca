@@ -3,11 +3,7 @@
 </h1>
 
 ## Hey! 👋
-I'm Semih, a 21 years old web developer from Hungary.
-
-- 🧭 Founder at [@th8ta](https://github.com/th8ta) and [@useverto](https://github.com/useverto)
-
-- 👥 Core team member at [@nestdotland](https://github.com/nestdotland)
+I'm Semih, a 21 years old senior student at ITU studying Industrial Engineer
 
 ## Skills 💻
 - 🐍 Python
