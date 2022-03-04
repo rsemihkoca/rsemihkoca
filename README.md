@@ -1,19 +1,19 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/rsemihkoca/Riza-Semih-Koca/c6c00c823d7a6609b04a33d2b092f6ee6ecbd0fc/name.svg" alt="Rıza Semih Koca" />
+  <img src="https://raw.githubusercontent.com/rsemihkoca/Riza-Semih-Koca/e5c5fc6e24fc8d878a31ed3372c069f3b8771590/name.svg" alt="Rıza Semih Koca" />
 </h1>
 
 ## Hey! 👋
-I'm Marton, a 18 years old web developer from Hungary.
+I'm Semih, a 21 years old web developer from Hungary.
 
 - 🧭 Founder at [@th8ta](https://github.com/th8ta) and [@useverto](https://github.com/useverto)
 
 - 👥 Core team member at [@nestdotland](https://github.com/nestdotland)
 
-## Skills
-- 👨‍💻 TypeScript, JavaScript, PHP, C#
-- ⚙️ React, Svelte, Vue
-- 👁️ SASS, CSS, Stylus
-- 💽 MySQL, SQL, Mongo
+## Skills 💻
+- 🐍 Python
+- ⚙️ SQL(BigQuery)
+-   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/826px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png"  />
+
 
 ## Contact
 - [marton.lederer.hu](https://marton.lederer.hu)
