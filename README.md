@@ -12,7 +12,8 @@ I'm Semih, a 21 years old web developer from Hungary.
 ## Skills 💻
 - 🐍 Python
 - ⚙️ SQL(BigQuery)
--   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/826px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png"  />
+-  ![](https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/826px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png =250x250)
+
 
 
 ## Contact
