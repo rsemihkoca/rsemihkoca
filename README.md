@@ -11,11 +11,10 @@ I'm Semih, a 21 years old web developer from Hungary.
 
 ## Skills 💻
 - 🐍 Python
-- ⚙️ SQL(BigQuery)
+- ⚙️ SQL
 - 📊 Excel
 
 ## Contact
-- [marton.lederer.hu](https://marton.lederer.hu)
 - [@martonlederer](https://twitter.com/martonlederer) on Twitter
 - [@martonlederer](https://twitter.com/instagram) on Instagram
 - [Marton#6513](./) on Discord
