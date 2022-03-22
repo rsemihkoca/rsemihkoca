@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/rsemihkoca/rsemihkoca/7ca00af1a8ac8f303980607ccf7108f461da285c/name.svg" alt="Rıza Semih Koca" />
 </h1>
 
-![](https://komarev.com/ghpvc/?username=rsemihkoca&color=green)
+![](https://komarev.com/ghpvc/?username=rsemihkoca&color=red)
 
 ## Hey! 👋
 I'm Semih, a 21 years old senior student at ITU studying Industrial Engineering
