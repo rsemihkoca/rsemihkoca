@@ -4,7 +4,7 @@
 
 ![](https://komarev.com/ghpvc/?username=rsemihkoca&color=brightgreen)
 
-## Hey! 👋
+// ## Hey! 👋
 I'm Semih, a 21 years old senior student at ITU studying Industrial Engineering
 
 ## Skills 💻
