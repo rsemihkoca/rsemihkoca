@@ -1,6 +1,8 @@
+
+[//]: # (
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/rsemihkoca/rsemihkoca/7ca00af1a8ac8f303980607ccf7108f461da285c/name.svg" alt="Rıza Semih Koca" />
-</h1>
+</h1>)
 
 ## Contact
 <a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/riza-semih-koca/">
